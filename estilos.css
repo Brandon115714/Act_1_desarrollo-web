@@ -1,5 +1,9 @@
 h1 {
     background-color: gray;
     text-align: center;
+}
+
+#imagen {
+    border: 5px solid black;
     
 }
